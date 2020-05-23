@@ -1,0 +1,7 @@
+numpy
+tensorflow
+matplotlib
+python-xlib
+Pillow
+pytesseract
+pynput
